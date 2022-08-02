@@ -35,6 +35,7 @@
   },
   "homepage": "https://github.com/toystars/react-native-multiple-select#readme",
   "dependencies": {
+    "deprecated-react-native-prop-types": "^2.3.0",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
